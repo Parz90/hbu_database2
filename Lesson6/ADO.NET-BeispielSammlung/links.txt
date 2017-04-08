@@ -1,0 +1,1 @@
+http://weblogs.asp.net/dotnetstories/archive/2011/03/01/using-stored-procedures-with-entity-framework-in-an-asp-net-application.aspx

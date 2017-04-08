@@ -1,0 +1,28 @@
+Todo's Datenbank(lernen):
+
+- ERM
+- RM
+- Normalisierung
+- DDL Befehle
+- DML Befehle
+- Join
+- Union
+- Constraints
+- Unterabfragen
+- Aggregation
+- Views
+- Grant / Invoke Befehle
+- Transaktionen
+- Beziehungen
+- Rekursionen
+- Spezialisierung / Generalisierung
+- Speicherstrukturen
+- Datenblöcke
+- Indices
+- Cluster
+- Stored Procedure
+- Trigger
+- Cursor
+- XML
+- Oracle Objektrelationale DB
+
