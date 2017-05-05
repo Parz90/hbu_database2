@@ -1,11 +1,20 @@
+-- Author		: Parthipan Nagulanandan
+-- Projekt		: HBU
+-- Version		: 1.3
+-- 
+-- Change log
+-- 29/04/2017   Planung und Beispiel Code
+-- 02/05/2017   Grob Implementation
+-- 05/05/2017   Fertigstellung Kreditkartenpruefung
+
 USE [Kreditkartenpruefung]
 GO
 
-/****** Object:  Table [dbo].[Log]    Script Date: 30.04.2017 21:47:38 ******/
+/****** Object:  Table [dbo].[Log]    Script Date: 05.05.2017 20:41:40 ******/
 DROP TABLE [dbo].[Log]
 GO
 
-/****** Object:  Table [dbo].[Log]    Script Date: 30.04.2017 21:47:38 ******/
+/****** Object:  Table [dbo].[Log]    Script Date: 05.05.2017 20:41:40 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -19,7 +28,7 @@ CREATE TABLE [dbo].[Log](
 	[Id] [bigint] IDENTITY(1,1) NOT NULL,
 	[Zeit] [datetime] NOT NULL,
 	[Benutzer] [varchar](50) NOT NULL,
-	[Beschreibung] [varchar](50) NOT NULL,
+	[Beschreibung] [varchar](200) NOT NULL,
 	[Name] [varchar](50) NOT NULL,
 	[Vorname] [varchar](50) NOT NULL,
 	[Geburtsdatum] [date] NOT NULL,

@@ -1,0 +1,10 @@
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\bin\Debug\Kreditkartenprüfung_MLZ.exe.config
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\bin\Debug\Kreditkartenprüfung_MLZ.exe
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\bin\Debug\Kreditkartenprüfung_MLZ.pdb
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.csprojResolveAssemblyReference.cache
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.Kartenerfassung.resources
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.Mainform.resources
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.Properties.Resources.resources
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.csproj.GenerateResource.Cache
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.exe
+C:\Users\Parz\Documents\HFU\C_Sharp1\Workspace\Parthipan Nagulanandan\Kreditkartenprüfung_MLZ\Kreditkartenprüfung_MLZ\obj\Debug\Kreditkartenprüfung_MLZ.pdb

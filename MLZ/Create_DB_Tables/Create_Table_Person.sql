@@ -1,11 +1,11 @@
 USE [Kreditkartenpruefung]
 GO
 
-/****** Object:  Table [dbo].[Person]    Script Date: 30.04.2017 21:47:59 ******/
+/****** Object:  Table [dbo].[Person]    Script Date: 05.05.2017 20:41:55 ******/
 DROP TABLE [dbo].[Person]
 GO
 
-/****** Object:  Table [dbo].[Person]    Script Date: 30.04.2017 21:47:59 ******/
+/****** Object:  Table [dbo].[Person]    Script Date: 05.05.2017 20:41:55 ******/
 SET ANSI_NULLS ON
 GO
 
